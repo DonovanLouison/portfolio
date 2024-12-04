@@ -216,7 +216,7 @@ gap: 10%;
     .sec1 .right img{
         width: 100%;
         z-index: -1;
-        opacity: 30%;
+        opacity: 50%;
     }
     .sec1 .container{
         flex-direction: column;
@@ -1267,11 +1267,7 @@ margin-top: 50px;
                 font-size: 4em;
             }
 
-               
-.sec1 .right img{
-    opacity: 80%;
-  
-}
+            
             /* .sec1 .left p::before {
                 font-size: 0;
                 display: none;
