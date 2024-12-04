@@ -1266,6 +1266,12 @@ margin-top: 50px;
             .sec1 .left h1:hover {
                 font-size: 4em;
             }
+
+               
+.sec1 .right img{
+    opacity: 80%;
+  
+}
             /* .sec1 .left p::before {
                 font-size: 0;
                 display: none;
